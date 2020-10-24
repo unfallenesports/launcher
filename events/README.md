@@ -22,19 +22,19 @@ description ^^
 ## Regole
 <table>
   <tr>
-    <td>^^^^</td>
+    <th>^^^^</th>
     <td>Suddivide i blocchi di elementi</td>
   </tr>
   <tr>
-    <td>^^^</td>
+    <th>^^^</th>
     <td>Suddivide gli elementi (variabili)</td>
   </tr>
   <tr>
-    <td>^^</td>
+    <th>^^</th>
     <td>Assegna il/i valore/i all'elemento</td>
   </tr>
   <tr>
-    <td>^</td>
+    <th>^</th>
     <td>Suddivide i valori dell'elemento</td>
   </tr>
 </table>
