@@ -1,4 +1,4 @@
 # Template
----
-ciao
----
+<code>
+  ciao
+</code>
