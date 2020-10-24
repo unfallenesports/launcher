@@ -47,7 +47,7 @@ description ^^
   <tr>
     <td>title</td>
     <td>Elemento che contiene il nome dell'evento</td>
-    <td>Obbligatorio</td>
+    <th>Obbligatorio</th>
   </tr>
   <tr>
     <td>date</td>
@@ -56,7 +56,7 @@ description ^^
       Necessita di 2 valori: la data e l'ora.<br>
       Esempio valore: <code>01/01/2010 ^ 12:00</code>
     </td>
-    <td>Obbligatorio</td>
+    <th>Obbligatorio</th>
   </tr>
   <tr>
     <td>button</td>
@@ -66,7 +66,7 @@ description ^^
       Necessita di 2 valori: il testo del pulsante e l'URL che verrà aperto al click.<br>
       Esempio valore: <code>Clicca qui ^ https://www.google.com</code>
     </td>
-    <td>Opzionale</td>
+    <th>Opzionale</th>
   </tr>
   <tr>
     <td>description</td>
@@ -75,6 +75,6 @@ description ^^
       Il numero di valori può variare a partire da 1.<bR>
       Il simbolo circonflesso di divisione valori può essere utilizzato per andare a capo
     </td>
-    <td>Obbligatorio</td>
+    <th>Obbligatorio</th>
   </tr>
 </table>
