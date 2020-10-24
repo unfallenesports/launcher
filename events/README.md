@@ -1,4 +1,4 @@
 # Template
 <code>
-  ciao
+  
 </code>
