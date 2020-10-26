@@ -17,6 +17,12 @@ description ^^
   L'ultima riga non necessita di circonflesso.
 </pre></code>
 
+## Template vuoto
+<pre><code>title ^^ ^^^
+date ^^ ^ ^^^
+description ^^ ^^^
+</code></pre>
+
 ---
 
 ## Regole
