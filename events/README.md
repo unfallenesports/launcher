@@ -25,6 +25,10 @@ description ^^ ^^^
 
 ---
 
+### ATTENZIONE: Il primo evento è il film.
+
+---
+
 ## Regole
 <table>
   <tr>
