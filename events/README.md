@@ -28,7 +28,7 @@ description ^^ ^^^
 ### ATTENZIONE: Il primo evento è il film.
 ### ATTENZIONE: poster.jpg NON deve essere eliminato.
 ### ATTENZIONE: poster.jpg deve essere categoricamente di formato JPEG.
-### ATTENZIONE: poster.jpg deve avere dimensione 150x225 pixel.
+### ATTENZIONE: poster.jpg deve avere dimensioni 150x225 pixel.
 
 ---
 
