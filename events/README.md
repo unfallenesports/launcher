@@ -82,8 +82,8 @@ description ^^ ^^^
     <td>description</td>
     <td>
       Elemento che contiene la descrizione dell'evento.<br>
-      Il numero di valori può variare a partire da 1.<bR>
-      Il simbolo circonflesso di divisione valori può essere utilizzato per andare a capo
+      Il numero di valori può variare a partire da 1.<br>
+      <code>^</code> può essere utilizzato per andare a capo
     </td>
     <td>Obbligatorio</td>
   </tr>
